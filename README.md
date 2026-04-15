@@ -1,2 +1,0 @@
-# habitat
-Habitat part
