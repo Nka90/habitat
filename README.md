@@ -69,7 +69,7 @@ or
 
 1. Clone repository
 
-&#x09;git clone <>
+&#x09;git clone <https://github.com/Nka90/habitat.git>
 
 &#x09;cd habitatSearching
 
